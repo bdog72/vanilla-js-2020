@@ -1,3 +1,3 @@
 //
 //
-console.log('Bozo Boy');
+console.log('Practice Boy');
