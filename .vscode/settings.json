@@ -3,6 +3,7 @@
     "crossorigin",
     "josey",
     "modalopen",
+    "todos",
     "voiceschanged"
   ]
 }
